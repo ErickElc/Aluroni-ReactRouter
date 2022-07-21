@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aluroni-ReactRouter/static/css/main.84859302.css",
-    "main.js": "/Aluroni-ReactRouter/static/js/main.41a592cb.js",
+    "main.js": "/Aluroni-ReactRouter/static/js/main.2a6b0455.js",
     "static/media/header.png": "/Aluroni-ReactRouter/static/media/header.b657dd083e14f631a54c.png",
     "static/media/nossa_casa.png": "/Aluroni-ReactRouter/static/media/nossa_casa.3fce23b5f216aa3d377f.png",
     "static/media/massa1.png": "/Aluroni-ReactRouter/static/media/massa1.b54a937ecf33911a10be.png",
@@ -11,10 +11,10 @@
     "static/media/logo.svg": "/Aluroni-ReactRouter/static/media/logo.4aa691b6070b74b5f57b342792fde93d.svg",
     "index.html": "/Aluroni-ReactRouter/index.html",
     "main.84859302.css.map": "/Aluroni-ReactRouter/static/css/main.84859302.css.map",
-    "main.41a592cb.js.map": "/Aluroni-ReactRouter/static/js/main.41a592cb.js.map"
+    "main.2a6b0455.js.map": "/Aluroni-ReactRouter/static/js/main.2a6b0455.js.map"
   },
   "entrypoints": [
     "static/css/main.84859302.css",
-    "static/js/main.41a592cb.js"
+    "static/js/main.2a6b0455.js"
   ]
 }
